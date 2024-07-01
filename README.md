@@ -27,6 +27,9 @@ Platform channels use a binary messaging system to communicate between Dart and 
 - Flip animation for displaying quotes.
 - Platform checks to handle platform-specific logic.
 
+<img src="https://github.com/aivision369/NetQuoteCross/blob/master/screen.jpeg" width="200">
+
+
 <h3>Getting Started</h3>
 
 <h4>Prerequisites</h4>
