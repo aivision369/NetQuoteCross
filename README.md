@@ -18,8 +18,6 @@ Platform channels use a binary messaging system to communicate between Dart and 
 2. The platform-specific code (Kotlin/Swift) handles the message and performs the necessary operations.
 3. The platform-specific code sends a response back to Flutter.
 
-![My Page](https://github.com/IDFDeveloper/flutter.shailesh.porfolio/blob/master/landipage.PNG)
-
 <h3>Features:</h3>
 
 - Fetch daily internet usage data using platform-specific code:
