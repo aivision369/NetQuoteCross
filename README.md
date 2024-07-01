@@ -36,7 +36,7 @@ Platform channels use a binary messaging system to communicate between Dart and 
 
 - Flutter SDK
 - Android Studio or Xcode (for Android and iOS development)
-- An internet connection to fetch quotes from the API
+- An internet connection to fetch quotes from the API 
 
 <h4>Setup</h4>
 
@@ -48,7 +48,7 @@ Platform channels use a binary messaging system to communicate between Dart and 
    `flutter pub get`
 3. Run the app:
    `flutter run`
-4.
+
 Customization:
 
 ✍️Feel free to customize this profile to better reflect your unique skills and experiences. You can update the content, colors, and layout to suit your preferences and branding.
