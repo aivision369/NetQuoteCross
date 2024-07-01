@@ -40,8 +40,8 @@ Platform channels use a binary messaging system to communicate between Dart and 
 <h4>Setup</h4>
 
 1. Clone the repository:
-   `git clone https://github.com/your_username/daily-internet-usage-quote-app.git
-   cd daily-internet-usage-quote-app`
+   `git clone https://github.com/aivision369/NetQuoteCross.git
+   cd net-quote-cross`
 
 2. Install dependencies:
    `flutter pub get`
@@ -55,7 +55,7 @@ Customization:
 ---
 <h3>📄 License: </h3>
 
-This profile is provided under MIT License. See [Here](https://github.com/IDFDeveloper/flutter.shailesh.porfolio/blob/master/LICENSE).
+This profile is provided under MIT License. See [Here](https://github.com/aivision369/NetQuoteCross/blob/master/LICENSE).
 
 ---
 Please contact me at limbadiya.sk@gmail.com if you have any feedback for the website. ⭐ Star it, if you like it!
